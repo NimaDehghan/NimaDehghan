@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nima, I'm 37 years old
+- 👋 Hi, I’m Nima, I was born in 1985
 - 👀 I’m interested in computer programming, Computer Network, learning new languages and playing chess 
 - 🌱 I know English, Turkish, Persian(native) languages and I’m currently learning German language
 - 💞️ I’m looking to collaborate on web design espescially by python django framework
